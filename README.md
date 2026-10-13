@@ -1,3 +1,3 @@
 # Fruit Manager
 
-Bienvenue 
+Bienvenue dans le Fruit manager.
