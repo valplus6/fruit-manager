@@ -1,3 +1,3 @@
 # Fruit Manager
 
-Bienvenue dans le Fruit manager.
+Bienvenue sur Fruit manager. Ce repo permet de gérer une plantation.
